@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Script>C:\Users\nemesis\Desktop\swiftbot_scripts\Pêcheur 1-200 (Tout) Amakna - Astrub Level_Up.lua</Script>
+  <SpellAuto>-1</SpellAuto>
+  <CaractAuto>0</CaractAuto>
+  <Placement>2</Placement>
+  <SpeedFight>0</SpeedFight>
+  <Regen>80</Regen>
+  <RegenTeam>false</RegenTeam>
+  <Flood />
+  <FloodActivate>false</FloodActivate>
+  <Commerce>true</Commerce>
+  <Recrutement>true</Recrutement>
+  <ConnexionAuto>true</ConnexionAuto>
+  <Sucess>true</Sucess>
+  <StatuPrivate>false</StatuPrivate>
+  <AntiAgro>false</AntiAgro>
+  <BankReturn>80</BankReturn>
+  <ExchangeHost />
+  <PasswordExchange />
+  <ExchangeActivate>false</ExchangeActivate>
+  <TimeWait>1500</TimeWait>
+  <RegenAutoIDActivate>false</RegenAutoIDActivate>
+  <ToggleActivate>true</ToggleActivate>
+  <LogsActivate>false</LogsActivate>
+  <FloodSameCharacter>false</FloodSameCharacter>
+  <FloodMapEnter>false</FloodMapEnter>
+  <SpellConfig>
+    <Spell>
+      <Id>0</Id>
+      <SpellId>125</SpellId>
+      <Name>Mot Interdit</Name>
+      <Target>Enemy</Target>
+      <Turns>1</Turns>
+      <Relaunch>2</Relaunch>
+      <LastTurn>6</LastTurn>
+      <IsHandToHand>false</IsHandToHand>
+      <TouchMonster>false</TouchMonster>
+      <TargetLife>100</TargetLife>
+    </Spell>
+  </SpellConfig>
+  <Tactic>Distance</Tactic>
+  <FarCells>3</FarCells>
+</Configform>
